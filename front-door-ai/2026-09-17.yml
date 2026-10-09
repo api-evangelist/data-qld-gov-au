@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: data.qld.gov.au
   final_host: www.data.qld.gov.au
-  ownership: inherited
+  ownership: own
   owner: data-qld-gov-au
   shares_host_with: null
-  inherited_from: www.data.qld.gov.au
+  inherited_from: null
+  alias_of: www.data.qld.gov.au
   verdict: silent
-  score: null
+  score: 0
+  band: 1
+  band_label: silent
   host_score: 0
-  density: null
+  density: 0.0
   words: 241
   tiers:
     agentic: 0
